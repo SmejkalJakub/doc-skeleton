@@ -1,10 +1,8 @@
-# Repository: doc-tower
+# Repository: doc-skeleton
 
-This repository contains source data for the online datasheet of TOWER. It uses **Sphinx** as a documentation generator altogether with **reStructuredText** as a lightweight markup language.
+This repository contains source data for the online datasheet skeleton. It uses **Sphinx** as a documentation generator altogether with **reStructuredText** as a lightweight markup language.
 
 The documentation is hosted at [**Read The Docs**](https://readthedocs.org/) and is automatically built on commit to the master branch.
-
-Once built, the site is available at: **https://tower.hardwario.com/**
 
 ---
 **WARNING**
@@ -14,7 +12,6 @@ You should always do ``./docker.sh serve`` before pushing to the master branch a
 Even if the build will succeed it will not show in most major internet browsers.
 
 ---
-
 
 ## Setup
 
@@ -26,11 +23,11 @@ Follow these steps:
 
 1. Clone the repository:
 
-       git clone https://github.com/hardwario/doc-tower.git
+       git clone https://github.com/hardwario/doc-skeleton.git
 
 1. Go to the repository:
 
-       cd doc-tower
+       cd doc-skeleton
 
 1. Build the Docker image:
 

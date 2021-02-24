@@ -19,7 +19,7 @@
 # -- Project information -----------------------------------------------------
 
 
-project = 'HARDWARIO TOWER - Industrial IoT Kit'
+project = 'Project name'
 copyright = '2020, HARDWARIO s.r.o.'
 author = 'HARDWARIO s.r.o.'
 
