@@ -18,6 +18,7 @@ To add images, add them into the ``/source/_static`` directory and reference the
 
 To see all the extensions installed for this skeleton you can visit ``requirements.txt``.
 
+Go to ``conf.py`` to update project name and some other configuration files.
 
 To see more on how to make .rst documents you can visit the :doc:`example document </example/example_doc>`.
 
